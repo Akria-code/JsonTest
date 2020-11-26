@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Json解析</string>
+    <string name="img_des" >矢量图</string>
+    <string name="login">登录</string>
+    <string name="user_name">用户名</string>
+    <string name="pwd">密&#160;&#160;&#160;码</string>
+    <string name="pwd_hint">请输入密码</string>
+    <string name="user_hint_name">请输入用户名</string>
+</resources>
